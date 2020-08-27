@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/FRAM/Demo/Cube-Avatar/Scenes/3D-Skeleton-Demo.unity
+    guid: c5de6740d0d03b048ae57974a0ecd968
+  - enabled: 1
+    path: Assets/FRAM/Demo/UI-Visualization/Scenes/FramosAIDemo.unity
+    guid: 8a12c77f64b2fb84e990595fc8e51bb5
   m_configObjects: {}

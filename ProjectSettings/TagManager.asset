@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - GLRenderer
+  - UI
+  - Hand
+  - BottomLine
+  - UserPixel
+  - recordColor
+  - dd
   layers:
   - Default
   - TransparentFX
@@ -13,10 +20,10 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - Test
+  - k
+  - g
+  - a
   - 
   - 
   - 
